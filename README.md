@@ -10,6 +10,7 @@ Hello Everyone or shall I say Hello World to my fellow programmers  :technologis
 This is a Web application using Python, Flask and SQL Alchemy that has allows Users to take Notes.
 
 Users can do the following functions: 
+
  ✍️: Login
 
  ✍️: Sign Up
